@@ -1,9 +1,9 @@
 
 <div align="center">
   <img
-    src="https://cdn.discordapp.com/banners/1299044583858110577/3f8bb69d0a96e9621077cb31b5d25d1f.jpg?size=2048"
+    src="https://i.ibb.co/yFFvp8Ns/turkiyemc-banner.png"
     alt="TürkiyeMC Banner"
-    width="400"
+    width="500"
   />
 </div>
 
